@@ -6,3 +6,4 @@ venv/
 data/
 checkpoints/
 *.pt
+*.egg-info/
